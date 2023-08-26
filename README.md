@@ -1,8 +1,7 @@
 # excel-sheet-splitter
 # Excel Sheet Splitter
 
-Excel Sheet Splitter is a web application built with Flask that allows you to upload an Excel file, split its sheets into individual Excel files, and save them in a designated folder. It also returns links to the split files after the process. This project is designed to fulfill the requirements of splitting Excel sheets into separate files using a Python interface, receiving input in JSON format for POST submissions, and returning output in JSON format.
-
+Excel Sheet Splitter is a web application built with Flask that allows you to upload an Excel file, split its sheets into individual Excel files, and save them in a designated folder. It also returns links to the split files after the process. This project is designed to fulfill the requirements of splitting Excel sheets into separate files using a Python interface.
 ## Features
 
 - Upload an Excel file.
